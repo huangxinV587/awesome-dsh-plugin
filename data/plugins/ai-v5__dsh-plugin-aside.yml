@@ -1,0 +1,12 @@
+url: https://github.com/ai-v5/dsh-plugin-aside
+name: ai-v5/dsh-plugin-aside
+category: ui
+description:
+  en: >-
+    Forked side chats as first-class right-sidebar tabs: the start page gains a
+    new-side-chat card beside the terminal card, which forks the current
+    conversation into a real child session rendered with the native transcript
+    and composer, so it can be talked to without touching the main thread. The
+    child can also relay a provenance-marked message back to the main
+    conversation through one fail-closed tool.
+  zh: 右侧栏一等公民的分叉侧聊。开始页在终端卡片旁新增「新建旁聊」，把当前对话分叉成真实子会话，用原生记录与输入框继续聊而不影响主线程；子会话还能通过一个失败关闭的工具，把带来源标注的消息送回主对话。
